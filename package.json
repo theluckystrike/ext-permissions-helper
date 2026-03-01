@@ -1,0 +1,10 @@
+{
+  "name": "@zovo/ext-permissions-helper",
+  "version": "1.0.0",
+  "description": "Permission request flows",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": ["chrome-extension", "zovo"],
+  "author": "Zovo Tools",
+  "license": "MIT"
+}
